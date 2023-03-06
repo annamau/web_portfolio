@@ -1,15 +1,8 @@
 <template>
-  <body>
-    <div class= "justify-center flex bg-black h-screen w-screen">
-      <h1 class="font-normal absolute h-3 text-white"> Hello </h1>
-    </div>
-  </body>
+  <div class= "bg-blue-200 h-screen w-screen">
+  </div>
 </template>
 
 <script setup>
 
 </script>
-
-<style lang="scss" scoped>
-
-</style>
